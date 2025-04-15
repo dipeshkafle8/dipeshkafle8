@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Kafle</h1>
-<h3 align="center">A passionate fullstack developer from Nepal.</h3>
+<h3 align="center">A passionate fullstack developer.</h3>
 
 - 📫 How to reach me **dipeshkaflen2060@gmail.com**
 
